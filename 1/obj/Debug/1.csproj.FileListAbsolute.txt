@@ -1,0 +1,11 @@
+C:\Users\edlsk\OneDrive\바탕 화면\학교\2학년\1학기\기초프로그래밍\23-05-15\1\1\bin\Debug\1.exe.config
+C:\Users\edlsk\OneDrive\바탕 화면\학교\2학년\1학기\기초프로그래밍\23-05-15\1\1\bin\Debug\1.exe
+C:\Users\edlsk\OneDrive\바탕 화면\학교\2학년\1학기\기초프로그래밍\23-05-15\1\1\bin\Debug\1.pdb
+C:\Users\edlsk\OneDrive\바탕 화면\학교\2학년\1학기\기초프로그래밍\23-05-15\1\1\obj\Debug\1.csproj.AssemblyReference.cache
+C:\Users\edlsk\OneDrive\바탕 화면\학교\2학년\1학기\기초프로그래밍\23-05-15\1\1\obj\Debug\1.csproj.SuggestedBindingRedirects.cache
+C:\Users\edlsk\OneDrive\바탕 화면\학교\2학년\1학기\기초프로그래밍\23-05-15\1\1\obj\Debug\_1.Properties.Resources.resources
+C:\Users\edlsk\OneDrive\바탕 화면\학교\2학년\1학기\기초프로그래밍\23-05-15\1\1\obj\Debug\1.csproj.GenerateResource.cache
+C:\Users\edlsk\OneDrive\바탕 화면\학교\2학년\1학기\기초프로그래밍\23-05-15\1\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+C:\Users\edlsk\OneDrive\바탕 화면\학교\2학년\1학기\기초프로그래밍\23-05-15\1\1\obj\Debug\1.exe
+C:\Users\edlsk\OneDrive\바탕 화면\학교\2학년\1학기\기초프로그래밍\23-05-15\1\1\obj\Debug\1.pdb
+C:\Users\edlsk\OneDrive\바탕 화면\학교\2학년\1학기\기초프로그래밍\23-05-15\1\1\obj\Debug\_1.Form1.resources
